@@ -1,2 +1,3 @@
 Name info.txt 
 I am a simple file created to make u learn git good luck :)
+this line is added to check the commandes working on changes 

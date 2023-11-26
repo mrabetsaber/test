@@ -1,0 +1,2 @@
+Name info.txt 
+I am a simple file created to make u learn git good luck :)
